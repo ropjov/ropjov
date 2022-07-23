@@ -2,7 +2,7 @@
 
 ## I am a full-stack developer, more focused on back-end
 
-## My most recent projects are closed source! But please take a look at what I am working on
+Keep in mind my most recent projects are closed source!
 
 # My stack
 
