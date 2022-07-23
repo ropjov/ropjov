@@ -4,6 +4,7 @@
 
 <p align='center'> Most of my recent projects are closed source! But working on creating new projects and contributing to open source! </p>
 
+<hr>
 
 # My stack
 
