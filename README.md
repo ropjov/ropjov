@@ -1,8 +1,9 @@
 <h1 align='center'> Hi there 👋, I'm ropjov 👨‍💻 </h1>
 
-## I am a full-stack developer, more back-end leaning
+<h2 align='center'> I am a full-stack developer, more back-end leaning </h2>
 
-Most of my recent projects are closed source! But working on creating new projects and contributing to open source!
+<p align='center'> Most of my recent projects are closed source! But working on creating new projects and contributing to open source! </p>
+
 
 # My stack
 
