@@ -25,7 +25,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Truffle](https://img.shields.io/badge/truffle-7D4698?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/hardhat-7D4698?style=for-the-badge&logo=hardhat&logoColor=white)
 
 ## Front-end
 
