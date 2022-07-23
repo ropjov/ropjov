@@ -1,8 +1,8 @@
 # Hi there, I am ropjov 👋
 
-## I am a full-stack developer, more focused on back-end
+## I am a full-stack developer, more back-end leaning
 
-Keep in mind my most recent projects are closed source!
+Most of my recent projects are closed source! But working on creating new projects and contributing to open source!
 
 # My stack
 
